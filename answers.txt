@@ -4,5 +4,8 @@ Answer: We utilise Git because it allows for more optimized programming process 
 
 Q2: What field could data science be applied to. Give an example.
 
-Answer: Data science can be able all fields today due to the prominence of data worldwide. One example of this is in the field of pyschology. Many clinics get data about various patients with a range of different backgrounds. Navigating this data and finding patterns among them help create breakthroughs in the field, while also helping in the accuracy of future diagnoses.
+Answer: Data science can be able all fields today due to the prominence of data worldwide. One example of this is in the field of pyschology. Many clinics get data about various patients with a range of different backgrounds. Navigating this data and finding patterns among them help create breakthroughs in the field, while also helping in the accuracy of future diagnoses. 
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: The key difference between merging and rebasing is whether or not the history is preserved. Merging preserves the history both of the main branch and the child branch, however rebasing simply appends the changes into a new commit and removes the development commits/history of rebased branch.
