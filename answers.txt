@@ -9,3 +9,7 @@ Answer: Data science can be able all fields today due to the prominence of data 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: The key difference between merging and rebasing is whether or not the history is preserved. Merging preserves the history both of the main branch and the child branch, however rebasing simply appends the changes into a new commit and removes the development commits/history of rebased branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to the chance of taking my learning from this course and applying it relevant real-world fields, especially through the main project. I am also excited to expand this knowledge into the field of Machine Learning, where data science is heavily prominent.
