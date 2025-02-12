@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to. Give an example.
+
+Answer: Data science can be able all fields today due to the prominence of data worldwide. One example of this is in the field of pyschology. Many clinics get data about various patients with a range of different backgrounds. Navigating this data and finding patterns among them help create breakthroughs in the field, while also helping in the accuracy of future diagnoses.
